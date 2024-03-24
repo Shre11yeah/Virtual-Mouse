@@ -8,10 +8,6 @@ actual mouse or a computer keyboard. Virtual mouse which uses web
 camera works with the help of different image processing techniques.
 
 
- _Youtube Channel Link: [link](https://www.youtube.com/channel/UCC2aiBrcvFHpb4Rve-eQFBg)_<br>
- _Video Link: [link](https://www.youtube.com/watch?v=ufm6tfgo-OA&ab_channel=Proton)_
-
-
 # How to setup and run
 
   ### Pre-requisites
@@ -19,8 +15,6 @@ camera works with the help of different image processing techniques.
   Python: (3.6 - 3.8.5)<br>
   Anaconda Distribution: To download click [here](https://www.anaconda.com/products/individual).
   
-  Download and Extract the Project Folder Name Virtual-Mouse.<br>
-  And then Open the Virtual-Mouse Folder in VsCode as shown in Video.
   
   Step 1: 
   ```bash
